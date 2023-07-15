@@ -13,13 +13,13 @@ function Experience() {
     <div className='experience'>
      <VerticalTimeline lineColor='#3e497a'>
       <VerticalTimelineElement className='vertical-timeline-element--education'
-      date='January 2023- June 2023'
+      date='January 2008- June 2009'
       iconStyle={{background:'#3e497a', color:"#fff"}}
       icon={<SchoolIcon />}
       >
-        <h3 className='vertical-timeline-element-title'>Color Coded Labs, 
+        <h3 className='vertical-timeline-element-title'>Columbus State Community College, 
         Columbus Ohio</h3>
-        <p>Full-Stack JavaScript Certificate</p>
+        <p>General Education Diploma</p>
       </VerticalTimelineElement>
 
       <VerticalTimelineElement className='vertical-timeline-element--Work'

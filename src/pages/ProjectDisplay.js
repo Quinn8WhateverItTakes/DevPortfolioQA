@@ -15,7 +15,7 @@ function ProjectDisplay() {
         <p>
         <b>Skills:</b>{project.skills}
         </p>
-        <GitHub/>
+        <GitHub />
      </div>
   )
   
